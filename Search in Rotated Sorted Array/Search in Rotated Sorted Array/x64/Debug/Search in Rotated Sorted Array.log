@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\target_2024\Search in Rotated Sorted Array\Search in Rotated Sorted Array\main.cpp(9,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Search in Rotated Sorted Array.vcxproj -> D:\target_2024\Search in Rotated Sorted Array\x64\Debug\Search in Rotated Sorted Array.exe

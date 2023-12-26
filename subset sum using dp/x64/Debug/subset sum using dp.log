@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\target_2024\subset sum using dp\main.cpp(8,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  subset sum using dp.vcxproj -> D:\target_2024\subset sum using dp\x64\Debug\subset sum using dp.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\target_2024\Remove duplicates from Sorted Array\Remove duplicates from Sorted Array\main.cpp(9,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Remove duplicates from Sorted Array.vcxproj -> D:\target_2024\Remove duplicates from Sorted Array\x64\Debug\Remove duplicates from Sorted Array.exe

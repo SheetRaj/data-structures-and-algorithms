@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\target_2024\Move all negative number to the left side of an array\Move all negative number to the left side of an array\main.cpp(10,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\target_2024\Move all negative number to the left side of an array\Move all negative number to the left side of an array\main.cpp(42,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Move all negative number to the left side of an array.vcxproj -> D:\target_2024\Move all negative number to the left side of an array\x64\Debug\Move all negative number to the left side of an array.exe

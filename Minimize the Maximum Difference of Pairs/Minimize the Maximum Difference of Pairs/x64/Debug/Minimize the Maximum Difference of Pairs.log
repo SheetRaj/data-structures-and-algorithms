@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\target_2024\Minimize the Maximum Difference of Pairs\Minimize the Maximum Difference of Pairs\main.cpp(11,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Minimize the Maximum Difference of Pairs.vcxproj -> D:\target_2024\Minimize the Maximum Difference of Pairs\x64\Debug\Minimize the Maximum Difference of Pairs.exe

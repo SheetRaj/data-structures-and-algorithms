@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\target_2024\last occurrence of a character\last occurrence of a character\main.cpp(8,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\target_2024\last occurrence of a character\last occurrence of a character\main.cpp(41,20): error C2440: 'initializing': cannot convert from 'void' to 'int'
+D:\target_2024\last occurrence of a character\last occurrence of a character\main.cpp(41,20): message : Expressions of type void cannot be converted to other types
