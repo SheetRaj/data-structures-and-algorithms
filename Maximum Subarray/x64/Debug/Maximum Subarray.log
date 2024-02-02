@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\target_2024\Maximum Subarray\main.cpp(12,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\target_2024\Maximum Subarray\main.cpp(34,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\target_2024\Maximum Subarray\main.cpp(54,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\target_2024\Maximum Subarray\main.cpp(70,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Maximum Subarray.vcxproj -> D:\target_2024\Maximum Subarray\x64\Debug\Maximum Subarray.exe
