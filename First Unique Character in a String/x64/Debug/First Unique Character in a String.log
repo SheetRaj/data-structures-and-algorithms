@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\target_2024\First Unique Character in a String\main.cpp(37,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  First Unique Character in a String.vcxproj -> D:\target_2024\First Unique Character in a String\x64\Debug\First Unique Character in a String.exe
